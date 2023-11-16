@@ -603,7 +603,7 @@ int main()
 
         case(7):
             hash_free(hash);
-            hash=0;
+            hash=0; 
             break;
 
         case(8):
