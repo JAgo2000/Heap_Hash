@@ -1,1 +1,3 @@
-Learning c and databases# Heap_Hash
+Learning c and databases 
+Open with CodeBlocks
+# Heap_Hash
